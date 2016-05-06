@@ -1,7 +1,7 @@
 {
   "name": "codelift",
   "main": "./lib/codelift",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly and automatically build Dockerfiles using Codelift.io",
   "keywords": [
     "Docker"
