@@ -1,9 +1,11 @@
 {
   "name": "codelift",
   "main": "./lib/codelift",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Quickly and automatically build Dockerfiles using Codelift.io",
-  "keywords": ["Docker"],
+  "keywords": [
+    "Docker"
+  ],
   "activationCommands": {
     "atom-workspace": "codelift:createDockerfile"
   },
